@@ -7,10 +7,7 @@ int main()
     ios::sync_with_stdio(0);
     cin.tie(0);
 
-    int a;
-
-    cin >> a;
-    cout << a - 543;
+    cout << "!@#$%^&*(\\\'\"<>?:;";
 
     return 0;
 }
